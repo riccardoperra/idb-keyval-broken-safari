@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "vite",
-    "start:broken": "vite --host=4200",
+    "start:broken": "vite --port=4200",
     "build": "vite build"
   },
   "dependencies": {
