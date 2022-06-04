@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "idb-keyval": "6.1.0",
+    "solid-js": "1.4.1"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9",
+    "vite-plugin-solid": "^2.2.6"
+  }
+}
